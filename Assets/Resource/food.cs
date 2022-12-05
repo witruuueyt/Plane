@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class banzi : MonoBehaviour
+public class food : MonoBehaviour
 {
     public Animator ani;
     // Start is called before the first frame update
@@ -16,14 +16,9 @@ public class banzi : MonoBehaviour
     {
         
     }
-
-    public void Open1()
+    public void Door()
     {
-        this.ani.SetTrigger("Open");
+        this.ani.SetTrigger("Door");
     }
 
-    public void Close1()
-    {
-        this.ani.SetTrigger("Close");
-    }
 }
