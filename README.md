@@ -2,8 +2,8 @@
 
 This scene is about a VIP room on the plane.
 
-Youtube link: 
-https://youtu.be/xAw4fB3G1F8
+Video link: 
+https://www.bilibili.com/video/BV1oV4y1P7Bq/?vd_source=fb7642a06394a3fb8453d157ebf493c6
 
 Some pictures
 
